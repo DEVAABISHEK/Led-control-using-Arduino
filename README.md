@@ -59,8 +59,32 @@ Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
 
-## PROGRAM
+[circuit_diagram.pdf](https://github.com/user-attachments/files/16685831/circuit_diagram.pdf)
 
+
+## PROGRAM
+```
+const int ledPin = 12;   
+const int buttonPin = 13;
+
+void setup() {
+  pinMode(ledPin, OUTPUT);    
+  pinMode(buttonPin, INPUT_PULLUP); 
+}
+
+void loop() {
+  int buttonState = digitalRead(buttonPin); 
+  
+  if (buttonState == LOW) { 
+    digitalWrite(ledPin, LOW);
+  } else { 
+    digitalWrite(ledPin, HIGH);
+  }
+}
+```
 ## OUTPUT
+![Screenshot 2024-08-21 093609](https://github.com/user-attachments/assets/54f9960f-6620-423f-a802-24648dc65f25)
+![Screenshot 2024-08-21 093553](https://github.com/user-attachments/assets/9a06fd87-b84c-435a-a623-388a1febf9a5)
+
 
 ## RESULT
