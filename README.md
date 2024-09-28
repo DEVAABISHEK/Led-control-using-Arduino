@@ -92,7 +92,6 @@ void loop() {
 #
 #
 #
-#
 
 #
 # OUTPUT
