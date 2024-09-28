@@ -88,7 +88,7 @@ void loop() {
 # OUTPUT
 # LIGHT ON
 ![Screenshot 2024-08-21 093609](https://github.com/user-attachments/assets/54f9960f-6620-423f-a802-24648dc65f25)
-#LIGHT OFF
+# LIGHT OFF
 ![Screenshot 2024-08-21 093553](https://github.com/user-attachments/assets/9a06fd87-b84c-435a-a623-388a1febf9a5)
 
 
