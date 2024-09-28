@@ -65,7 +65,7 @@ Weighing Machines </br>
 
 #
 #
-#
+
 ## PROGRAM
 ```
 const int ledPin = 12;   
@@ -94,7 +94,7 @@ void loop() {
 #
 #
 #
-#
+
 #
 # OUTPUT
 # LIGHT ON
